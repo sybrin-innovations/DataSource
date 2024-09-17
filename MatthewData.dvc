@@ -1,0 +1,6 @@
+outs:
+- md5: 3767e7d5600e8e96fc03d407f5d4fabf.dir
+  size: 422819
+  nfiles: 3
+  hash: md5
+  path: MatthewData
