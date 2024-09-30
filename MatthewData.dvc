@@ -1,6 +1,6 @@
 outs:
-- md5: f4d8c88a27e36a56c731e5862dd49c4f.dir
-  size: 430088
+- md5: 500e3f3f77f50284b25d31bdb8178c8f.dir
+  size: 284972
   nfiles: 4
   hash: md5
   path: MatthewData
